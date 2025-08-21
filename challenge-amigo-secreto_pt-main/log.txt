@@ -1,0 +1,6 @@
+PS C:\Users\NITRO5\Documents\Alura_OracleOne\challenge-amigo-secreto_pt-main> git log
+commit a039c8b226415b3c2c64af6b0094256b85542024 (HEAD -> main, origin/main, origin/HEAD)
+Author: Keller Reis de Paiva <keller.rp@gmail.com>
+Date:   Thu Aug 21 11:30:22 2025 -0300
+
+    Amigo Secreto
